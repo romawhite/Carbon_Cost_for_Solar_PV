@@ -1,6 +1,7 @@
 # Unveiling Vegetation Carbon Losses from Global Utility-Scale Solar Photovoltaic Expansion
 
-This is only for visualizing the results
+This is only for visualizing the key dataset and results in the paper 'Unveiling Vegetation Carbon Losses from Global Utility-Scale Solar Photovoltaic Expansion'.
+Any question please contact Dr. Wan via the email: roma@link.cuhk.edu.hk
 
 
 ## step 1
@@ -10,11 +11,11 @@ Go to the website: https://romawhite90325.users.earthengine.app/view/solarpv
 Choose image to be display, default image is yearly NIRv
 
 ## step 3
-Select ground-mounted utility-scale solar pv (PV_{GU}) station to view details.
+Select ground-mounted utility-scale solar pv (PV<sub>GU</sub>) station to view details.
 
-All PV_{GU}s are filtered based on the identifier of "group id".
+All PV<sub>GU</sub>s are filtered based on the identifier of "group id".
 
-There is two ways to select PV_{GU}. You can select the targeted PV_{GU} based on its properties. 
+There is two ways to select PV<sub>GU</sub>. You can select the targeted PV<sub>GU</sub> based on its properties. 
 For example, if you want to view the largest PV_{GU} in China, you can choose the "All types" for Land cover, "China" for Nation, "area" for sorted by, and then the first id in 'Group id' field is what you want.
 
 Or, you can view the map and click the polygon of targeted PV_{GU}.
