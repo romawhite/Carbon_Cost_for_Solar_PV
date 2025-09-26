@@ -15,11 +15,16 @@ Choose image to be display, default image is yearly NIRv.
 ## step 3
 Select ground-mounted utility-scale solar pv (PV<sub>GU</sub>) station to view details.
 
-All PV<sub>GU</sub>s are filtered based on the identifier of "group id".
+All PV<sub>GU</sub> are filtered based on the identifier of "group id".
 
 There is two ways to select PV<sub>GU</sub>. You can select the targeted PV<sub>GU</sub> based on its properties. 
-For example, if you want to view the largest PV<sub>GU</sub> in China, you can choose the "All types" for Land cover, "China" for Nation, "area" for sorted by, and then the first id in 'Group id' field is what you want.
-
+For example, if you want to view the largest PV<sub>GU</sub> in China, you can choose
+```
+Land cover: "All types"
+Nation: "China"
+sorted by: "area"
+Group id: the first one is what you want if you select the sorting order as descending.
+```
 Or, you can view the map and click the polygon of targeted PV<sub>GU</sub>.
 
 ## step 4
@@ -28,4 +33,4 @@ You can view the basic info, such as land cover, area, nation, etc., and differe
 Also you can view the NPP loss, biomass loss and other info related to carbon.
 
 ## step 5
-View the monthly NIRv
+View the monthly NIRv.
