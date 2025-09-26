@@ -5,6 +5,7 @@ You can also access the codes for data analysis and visualization at https://git
 Permission may be required to access the codes, but be granted upon request.
 Any question please contact Dr. Wan via the email: roma@link.cuhk.edu.hk
 
+![Home page of the app](./images/Home.png)
 
 ## Step 1: Entrance
 Go to the website: https://romawhite90325.users.earthengine.app/view/solarpv
@@ -28,12 +29,14 @@ Nation: "China"
 sorted by: "area"
 Group id: the first one is what you want if you select the sorting order as descending.
 ```
-Or, you can view the map and click the polygon of targeted PV<sub>GU</sub>.
+Or, you can roam the map and click the polygon of targeted PV<sub>GU</sub>.
 
 ## Step 4: Details
 View the details on the carbon cost
 You can view the basic info, such as land cover, area, nation, etc., and differences in NIRv between solar land and buffer zones.
 Also you can view the NPP loss, biomass loss and other info related to carbon.
+![Details on the selected solar PV](./images/SolarPVLoc.png)
 
 ## Step 5: Pixel inspector
 You can also view the basic info at any pixel, including monthly NIRv.
+![monthly NIRv](./images/monthly_NIRv.png)
