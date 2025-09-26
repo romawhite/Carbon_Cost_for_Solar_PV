@@ -6,13 +6,13 @@ Permission may be required to access the codes, but be granted upon request.
 Any question please contact Dr. Wan via the email: roma@link.cuhk.edu.hk
 
 
-## step 1
+## step 1: Entrance
 Go to the website: https://romawhite90325.users.earthengine.app/view/solarpv
 
-## step 2
+## step 2: Data selection
 Choose image to be display, default image is yearly NIRv.
 
-## step 3
+## step 3: Solar PV location
 Select ground-mounted utility-scale solar pv (PV<sub>GU</sub>) station to view details.
 
 All PV<sub>GU</sub> are filtered based on the identifier of "group id".
@@ -27,10 +27,10 @@ Group id: the first one is what you want if you select the sorting order as desc
 ```
 Or, you can view the map and click the polygon of targeted PV<sub>GU</sub>.
 
-## step 4
+## step 4: Details
 View the details on the carbon cost
 You can view the basic info, such as land cover, area, nation, etc., and differences in NIRv between solar land and buffer zones.
 Also you can view the NPP loss, biomass loss and other info related to carbon.
 
-## step 5
-View the monthly NIRv.
+## step 5: Pixel inspector
+You can also view the basic info at any pixel, including monthly NIRv.
