@@ -10,7 +10,8 @@ Any question please contact Dr. Wan via the email: roma@link.cuhk.edu.hk
 Go to the website: https://romawhite90325.users.earthengine.app/view/solarpv
 > [!WARNING]
 > Sometimes it raises errors because of Earth Engine capacity exceeded.
-> 
+> Please try again!
+
 ## Step 2: Data selection
 Choose image to be display, default image is yearly NIRv.
 
