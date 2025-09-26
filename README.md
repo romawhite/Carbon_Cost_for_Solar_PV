@@ -1,7 +1,7 @@
 # Unveiling Vegetation Carbon Losses from Global Utility-Scale Solar Photovoltaic Expansion
 
 This is only for visualizing the key dataset and results in the paper '***Unveiling Vegetation Carbon Losses from Global Utility-Scale Solar Photovoltaic Expansion***'.
-You can also access the codes for data analysis and visualization at [Github Pages](https://github.com/romawhite/SolarPV) and the codes for future solar pv sitting at [Github Pages](https://github.com/romawhite/solarpv_siting).
+You can also access the codes for data analysis and visualization at [Solar PV](https://github.com/romawhite/SolarPV) and the codes for future solar pv sitting at [SolarPV_sitting](https://github.com/romawhite/solarpv_siting).
 Permission may be required to access the codes, but be granted upon request.
 Any question please contact Dr. Wan via the email: roma@link.cuhk.edu.hk
 
