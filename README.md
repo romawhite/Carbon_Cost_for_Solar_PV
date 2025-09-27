@@ -5,7 +5,9 @@ You can also access the codes for data analysis and visualization at [Solar PV](
 Permission may be required to access the codes, but be granted upon request.
 Any question please contact Dr. Wan via the email: roma@link.cuhk.edu.hk
 
-![Home page of the app](./images/Home.png)
+<p align="center">
+  <img src="./images/Home.png" alt="Home page of the app" width="980"/>
+</p>
 
 ## Step 1: Entrance
 Go to the website: https://romawhite90325.users.earthengine.app/view/solarpv
@@ -15,6 +17,10 @@ Go to the website: https://romawhite90325.users.earthengine.app/view/solarpv
 
 ## Step 2: Data selection
 Choose image to be display, default image is yearly NIRv.
+
+<p align="center">
+  <img src="./images/yearly_nirv.png" alt="yearly NIRv" width="980"/>
+</p>
 
 ## Step 3: Solar PV location
 Select ground-mounted utility-scale solar pv (PV<sub>GU</sub>) station to view details.
@@ -35,8 +41,15 @@ Or, you can roam the map and click the polygon of targeted PV<sub>GU</sub>.
 View the details on the carbon cost
 You can view the basic info, such as land cover, area, nation, etc., and differences in NIRv between solar land and buffer zones.
 Also you can view the NPP loss, biomass loss and other info related to carbon.
-![Details on the selected solar PV](./images/SolarPVLoc.png)
+<p align="center">
+  <img src="./images/SolarPVLoc.png" alt="Details on the selected solar PV" width="300"/>
+</p>
+<!--![Details on the selected solar PV](./images/SolarPVLoc.png)-->
 
 ## Step 5: Pixel inspector
 You can also view the basic info at any pixel, including monthly NIRv.
-![monthly NIRv](./images/monthly_NIRv.png)
+
+<p align="center">
+  <img src="./images/monthly_NIRv.png" alt="monthly NIRv" width="300"/>
+</p>
+<!--![monthly NIRv](./images/monthly_NIRv.png)-->
